@@ -374,7 +374,7 @@ img {
   border-radius: .5rem 0 .5rem 0;
 }
 
-/*========== MENU ==========*/
+/*========== APP ==========*/
 .app__data{
   text-align: center;
 }
@@ -397,6 +397,16 @@ img {
   justify-self: center;
 }
 
-.button:hover{
+/*.button:hover{
   background-color: var(--first-color-alt);
+}*/
+
+/*========== CONTACT ==========*/
+.contact__container{
+  text-align: center;
 }
+
+.contact__description{
+  margin-bottom: var(--mb-3);
+}
+
